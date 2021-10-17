@@ -1,4 +1,4 @@
-- 👋 Olá, Somos o grupo IA Society do @Projeto-Interdiciplinar-2C
+👋 Olá, Somos o grupo IA Society do @Projeto-Interdiciplinar-2C
 
 <!---
 Projeto-Interdiciplinar-2C/Projeto-Interdiciplinar-2C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
